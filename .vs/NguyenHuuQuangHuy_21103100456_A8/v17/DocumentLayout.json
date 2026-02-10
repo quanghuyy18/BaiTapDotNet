@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\laptrinhdotnetweb\\nguyenhuuquanghuy_21103100456_a8\\nguyenhuuquanghuy_21103100456_a8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\laptrinhdotnetweb\\nguyenhuuquanghuy_21103100456_a8\\nguyenhuuquanghuy_21103100456_a8\\controllers\\chamcongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\controllers\\chamcongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\models\\chamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\models\\chamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\models\\datanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\models\\datanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BD83A1-22A0-4650-8FA3-940F6CAFA39B}|NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8.csproj|solutionrelative:nguyenhuuquanghuy_21103100456_a8\\views\\chamcongs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:26:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataNhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\DataNhanvien.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Models\\DataNhanvien.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\DataNhanvien.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Models\\DataNhanvien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:06:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\NhanVien.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Models\\NhanVien.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:58:27.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Index.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:14:22.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Controllers\\NhanViensController.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Controllers\\NhanViensController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:09:58.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChamcongsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Controllers\\ChamcongsController.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Controllers\\ChamcongsController.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Controllers\\ChamcongsController.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Controllers\\ChamcongsController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwB0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:09:39.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:13:39.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:14:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chamcong.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\Chamcong.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Models\\Chamcong.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\Chamcong.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Models\\Chamcong.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:58:36.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Details.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Details.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:14:04.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Global.asax.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Global.asax.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:20:48.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Models\\Model1.cs",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Models\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:05:26.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\NhanViens\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:12:12.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:15:01.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Index.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:13:05.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Edit.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:12:50.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Details.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Details.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:11:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Delete.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:10:54.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\LapTrinhDOTNETweb\\NguyenHuuQuangHuy_21103100456_A8\\NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Create.cshtml",
+              "RelativeToolTip": "NguyenHuuQuangHuy_21103100456_A8\\Views\\Chamcongs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:10:31.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

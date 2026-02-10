@@ -1,0 +1,45 @@
+﻿@model IEnumerable<NguyenHuuQuangHuy_21103100456_A8.Models.Chamcong>
+
+@{
+    ViewBag.Title = "Trang";
+}
+
+<h2>Danh sách chấm công</h2>
+
+<p>
+    @Html.ActionLink("Tạo mới", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.NhanViens.MaNV)</th>
+            <th>@Html.DisplayNameFor(model => model.NhanViens.HoDem)</th>
+            <th>@Html.DisplayNameFor(model => model.NhanViens.Ten)</th>
+            <th>@Html.DisplayNameFor(model => model.NhanViens.LuongNgay)</th>
+            <th>@Html.DisplayNameFor(model => model.SoNgayCong)</th>
+            <th>Lương Tháng</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.NhanViens.MaNV)</td>
+                <td>@Html.DisplayFor(modelItem => item.NhanViens.HoDem)</td>
+                <td>@Html.DisplayFor(modelItem => item.NhanViens.Ten)</td>
+                <td>@Html.DisplayFor(modelItem => item.NhanViens.LuongNgay)</td>
+                <td>@Html.DisplayFor(modelItem => item.SoNgayCong)</td>
+                <td>
+                    @* Tính Lương tháng trong View *@
+                    @(item.NhanViens.LuongNgay * item.SoNgayCong)
+                </td>
+                <td>
+                    @Html.ActionLink("Sửa", "Edit", new { id = item.MaNV }) |
+                    @Html.ActionLink("Chi Tiết", "Details", new { id = item.MaNV }) |
+                    @Html.ActionLink("Xóa", "Delete", new { id = item.MaNV })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
